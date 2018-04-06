@@ -1,4 +1,4 @@
-package com.alex;
+package com.alex.lesson1;
 
 import java.util.Arrays;
 
